@@ -6,12 +6,13 @@ C:\Users\seren\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsForm
 C:\Users\seren\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
 C:\Users\seren\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
 C:\Users\seren\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
-C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
-C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
-C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
 C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
 C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
 C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
-C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
-C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Release\Greedy snake game.exe.config
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Release\Greedy snake game.exe
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Release\Greedy snake game.pdb
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\Greedy snake game.exe
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\Greedy snake game.pdb
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Release\System.Net.Http.dll
 C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
