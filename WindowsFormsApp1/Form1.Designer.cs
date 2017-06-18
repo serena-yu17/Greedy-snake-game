@@ -310,9 +310,9 @@
             this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label20.Location = new System.Drawing.Point(920, 453);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(160, 25);
+            this.label20.Size = new System.Drawing.Size(164, 25);
             this.label20.TabIndex = 10;
-            this.label20.Text = "Obstruct difficulty";
+            this.label20.Text = "Obstacle difficulty";
             // 
             // label16
             // 
