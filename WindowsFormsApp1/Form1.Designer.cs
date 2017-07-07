@@ -138,9 +138,9 @@
             this.checkBox1.Checked = true;
             this.checkBox1.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(903, 607);
+            this.checkBox1.Location = new System.Drawing.Point(875, 607);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(226, 77);
+            this.checkBox1.Size = new System.Drawing.Size(278, 77);
             this.checkBox1.TabIndex = 5;
             this.checkBox1.Text = "Allow passing through outer borders";
             this.checkBox1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
