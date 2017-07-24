@@ -1,0 +1,9 @@
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Debug\Greedy snake game.exe.config
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Debug\Greedy snake game.exe
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\bin\Debug\Greedy snake game.pdb
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Debug\Greedy snake game.exe
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Debug\Greedy snake game.pdb
+C:\OneDrive\projects\windows\Greedy snake game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
